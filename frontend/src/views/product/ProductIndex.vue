@@ -1,0 +1,9 @@
+<template>
+    <GlobalLayout>
+        <!-- TITLE -->
+        <div class="flex flex-col gap-1 mb-6">
+            <h1 class="text-2xl font-semibold">Products</h1>
+            <p class="text-sm text-slate-500">List of all your products</p>
+        </div>
+    </GlobalLayout>
+</template>
